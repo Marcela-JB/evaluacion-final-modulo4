@@ -36,4 +36,3 @@ Marcela Jiménez Bravo
 
  Repositorio GitHub
 
-(Pegar aquí la URL cuando subas el proyecto)
